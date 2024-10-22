@@ -16,7 +16,7 @@ Clone the repository:
 bash
 
 Copy code
-git clone https://github.com/yourusername/minesweeper-game.git
+git clone https://github.com/austindesk/minesweeper-game.git
 
 
 Open the project in Qt Creator.
